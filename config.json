@@ -1,7 +1,7 @@
 {
   "siteName": "افسانه‌ها",
-  "siteUrl": "https://faragomanyoutube.github.io/afsaneha",
-  "submitApiUrl": "",
+  "siteUrl": "https://afsanegan.ir",
+  "submitApiUrl": "https://afsaneha-bot.sarytjnmd.workers.dev",
   "viewsApiUrl": "",
   "turnstileSiteKey": "",
   "giscus": {
